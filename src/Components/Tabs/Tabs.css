@@ -1,0 +1,21 @@
+.tabContainer{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.tabList{
+height: 29px;
+position: relative;
+}
+
+.imgTabLeft{
+    transform: scale(0.7);
+    position: absolute;
+    right: 70px;
+}
+
+.imgTab{
+    transform: scale(0.7);
+    position: absolute;
+    right: 25px;
+  
+}
